@@ -1,0 +1,13 @@
+# Use %message% as a placeholder for the arguments of /broadcast
+broadcastMessage: '&7[&c&lAnnouncement&7] &f%message%'
+
+# Auto-broadcast delay (seconds)
+
+abcDelay: 60
+
+# Auto-broadcast messages
+
+autobroadcast:
+  - '&1change me in config'
+  - '&2change me in config'
+  - '&3change me in config'

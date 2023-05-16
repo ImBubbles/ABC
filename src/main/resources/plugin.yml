@@ -1,0 +1,17 @@
+name: Broadcast
+version: '${project.version}'
+main: me.bubbles.broadcast.Broadcast
+api-version: 1.19
+authors: [ Bubbles ]
+description: Broadcast and abc plugin
+commands:
+  broadcast:
+    usage: /<command>
+    description: Basic broadcast command
+    aliases: [bc,announce,announcement]
+  abcreload:
+    usage: /<command>
+    description: Reloads the ABC config
+  abctoggle:
+    usage: /<command>
+    description: Toggles ABC
